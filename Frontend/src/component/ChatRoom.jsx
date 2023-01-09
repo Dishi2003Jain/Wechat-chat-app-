@@ -11,7 +11,7 @@ const ChatRoom = ()=>{
     const [allMessages,setMessages] = useState([])
 
     useEffect(()=>{
-        const socket = io("http://localhost:8000");
+        const socket = io("https://wechatb.b4a.app");
         setSocket(socket)
         socket.on("connect",()=>{
             console.log(socket.id);
