@@ -1,10 +1,11 @@
 # Wechat-chat-app-
 We chat is a realtime chat app.
 React,Javascript,bootstrap,Socket.io,nodejs,ExpressJs are the technologies that are used. 
-![image](https://user-images.githubusercontent.com/82431854/216749168-d2f6aa58-683e-4f04-9351-4541fe35ad46.png)
 
 
-![image](https://user-images.githubusercontent.com/82431854/216749185-7d7416b0-6ba7-4e96-97d2-8034c88a232d.png)
+
+![Dashboard](https://github.com/Dishi2003Jain/Wechat-chat-app-/assets/82431854/d594fe3c-23d9-4c35-872c-9df12ab80c68)
 
 
-![image](https://user-images.githubusercontent.com/82431854/216749226-3020a438-1084-4d7d-a0f1-c1e5898ddbc9.png)
+
+![Contact Info](https://github.com/Dishi2003Jain/Wechat-chat-app-/assets/82431854/b981085a-1672-45a8-b650-e6e32f846287)
